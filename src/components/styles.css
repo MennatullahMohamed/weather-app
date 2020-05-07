@@ -1,0 +1,14 @@
+.main-div{
+    display: 'flex';
+    flex-direction: 'column';
+}
+.weather-text {
+    color: #ffffff;
+    font-size: 22px;
+    /* margin: auto; */
+}
+.weather-icon {
+    width: 100px;
+    height: 100px; 
+    margin: auto;
+}
